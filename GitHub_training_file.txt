@@ -1,0 +1,1 @@
+"PERSON A: Hi, Today I am learning how to use Git for all my future projects that need version Control" 
